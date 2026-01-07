@@ -1,1 +1,4 @@
-# -
+data文件夹包含训练集和测试集以及禁用词
+train_svm.py为SVM模型的训练函数
+LLM.py为论文的攻击方法
+evaluate_model.py为评估函数
